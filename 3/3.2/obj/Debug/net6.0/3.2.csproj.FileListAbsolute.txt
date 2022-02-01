@@ -1,0 +1,15 @@
+E:\.net practical\3\3.2\bin\Debug\net6.0\3.2.exe
+E:\.net practical\3\3.2\bin\Debug\net6.0\3.2.deps.json
+E:\.net practical\3\3.2\bin\Debug\net6.0\3.2.runtimeconfig.json
+E:\.net practical\3\3.2\bin\Debug\net6.0\3.2.dll
+E:\.net practical\3\3.2\bin\Debug\net6.0\ref\3.2.dll
+E:\.net practical\3\3.2\bin\Debug\net6.0\3.2.pdb
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.csproj.AssemblyReference.cache
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.AssemblyInfoInputs.cache
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.AssemblyInfo.cs
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.csproj.CoreCompileInputs.cache
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.dll
+E:\.net practical\3\3.2\obj\Debug\net6.0\ref\3.2.dll
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.pdb
+E:\.net practical\3\3.2\obj\Debug\net6.0\3.2.genruntimeconfig.cache
