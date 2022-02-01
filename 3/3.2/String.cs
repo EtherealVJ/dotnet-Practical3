@@ -23,7 +23,7 @@ namespace StringOP{
 
         public static void SwapN(string s){
             string[] arr = s.Split(" ");
-            Console.WriteLine($"ENTERED NAME :  \"{arr[1]} {arr[0]}\"");
+            Console.WriteLine($"ENTERED NAME :  \"{arr[1]}, {arr[0]}\"");
         }
 
         public static void SwapIfElse(string s){
@@ -31,7 +31,7 @@ namespace StringOP{
             if(arr.Length == 1){
                 Console.WriteLine($"ENTERED NAME : \"{arr[0]}\"");
             }else{
-                Console.WriteLine($"ENTERED NAME : \"{arr[1]} {arr[0]}\"");
+                Console.WriteLine($"ENTERED NAME : \"{arr[1]}, {arr[0]}\"");
             }
 
         }
